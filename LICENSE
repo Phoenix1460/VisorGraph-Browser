@@ -1,21 +1,26 @@
-MIT License
+Copyright (c) 2026 Phoenix1460. All rights reserved.
 
-Copyright (c) 2025 Phoenix1460
+1. DEFINITIONS
+"Software" refers to all source code, object code, documentation, assets, images, concepts, and files contained within this repository, as well as any derivative works created by modifying, adapting, or altering the original material. "Licensor" refers to the original creator, Phoenix1460. "User" refers to any individual or entity that accesses, downloads, copies, or uses the Software.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. GRANT OF NON-COMMERCIAL LICENSE
+Subject to strict compliance with this Agreement, Licensor grants User a limited, non-exclusive, non-transferable, revocable license to download, execute, and use the Software solely for personal, non-commercial, and non-monetized purposes. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. STRICT PROHIBITION ON COMMERCIALIZATION
+User shall not sell, lease, sublicense, rent, distribute, bundle, or otherwise exploit the Software for any commercial advantage, financial gain, or monetization. This prohibition includes, but is not limited to, utilizing the Software within commercial products, paid services, or ad-supported platforms, unless explicit, prior written authorization is obtained from the Licensor for each specific instance.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. MANDATORY MEDIA AND PUBLIC CONTENT ATTRIBUTION
+User is permitted to feature, demonstrate, or utilize the Software in publicly distributed media, videos, streams, or entertainment content (including, but not limited to, platforms such as YouTube, TikTok, and Twitch), subject to the following absolute condition: User must provide clear, prominent, and visible attribution to the Licensor. Attribution must explicitly state the creator's name ("Phoenix1460") and include a direct, functional hyperlink to the original GitHub repository. Failure to include this attribution immediately terminates this License.
+
+5. SEVERABILITY AND ANTI-EVASION
+If any provision of this License is found to be unenforceable, the remaining provisions shall remain in full force and effect. User agrees that any attempt to bypass, circumvent, or exploit perceived technical or textual loopholes to evade the restrictions of this License shall be treated as an intentional, bad-faith breach of contract and willful copyright infringement.
+
+6. DISCLAIMER OF LIABILITY, SECURITY, AND WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR SECURITY. 
+
+THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE IS SECURE, ERROR-FREE, OR FREE FROM VULNERABILITIES. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, LOSSES, COSTS, OR DAMAGES WHATSOEVER—INCLUDING BUT NOT LIMITED TO CYBERATTACKS, HACKING EVENTS, DATA BREACHES, SYSTEM COMPROMISES, MALWARE INFECTIONS, OR REVENUE LOSSES—EVEN IF IT IS DEFINITIVELY PROVEN THAT A VULNERABILITY, EXPLOIT, OR DEFECT IN THE SOFTWARE CAUSED OR FACILITATED THE EVENT. THE USER ASSUMES 100% OF THE RISK RELATED TO SECURITY, STABILITY, AND DATA INTEGRITY.
+
+7. GOVERNING LAW, ENFORCEMENT, AND LIQUIDATED DAMAGES
+This Agreement shall be governed by and construed in accordance with the laws of the United States and international copyright treaties (including the Berne Convention). Any breach of this Agreement constitutes willful copyright infringement and breach of contract. 
+
+In the event of a breach, Licensor shall be entitled to seek immediate injunctive relief, actual damages, and the maximum statutory damages allowed under 17 U.S. Code § 504 (up to $150,000 per willful infringement). Furthermore, if User violates the commercial restrictions or attribution clauses, User agrees to pay Licensor liquidated damages in the amount of $250,000 USD per violation, plus all reasonable attorneys' fees and legal costs incurred by the Licensor during enforcement.
